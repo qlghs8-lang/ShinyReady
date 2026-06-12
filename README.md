@@ -154,3 +154,4 @@ Assets/_Project/Scripts/
 ---
 
 *상세 포트폴리오: [docs/portfolio.md](./docs/portfolio.md)*
+*플레이 데모 영상: [Notion](https://app.notion.com/p/notion_portfolio-37d6288128658062b75ed3e1e877313f?source=copy_link)*
