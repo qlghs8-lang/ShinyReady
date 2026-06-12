@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfa4807ca786f5c47b72c13b58dfaac5, type: 3}
+  m_Name: Upg_StaffWorkSpeed
+  m_EditorClassIdentifier: Assembly-CSharp::ShinyReady.Upgrade.UpgradeData
+  upgradeName: "\uC9C1\uC6D0 \uD6A8\uC728"
+  unit: "\xD7"
+  maxLevel: 10
+  baseValue: 0.3
+  valuePerLevel: 0.05
+  costsPerLevel: 050000000a000000140000002800000050000000a0000000400100008002000000050000000a0000
+  requiredZoneLevel: 1

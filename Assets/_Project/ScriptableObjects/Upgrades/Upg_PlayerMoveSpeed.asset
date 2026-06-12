@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfa4807ca786f5c47b72c13b58dfaac5, type: 3}
+  m_Name: Upg_PlayerMoveSpeed
+  m_EditorClassIdentifier: Assembly-CSharp::ShinyReady.Upgrade.UpgradeData
+  upgradeName: "\uC774\uB3D9 \uC18D\uB3C4"
+  unit: m/s
+  maxLevel: 5
+  baseValue: 7
+  valuePerLevel: 0.5
+  costsPerLevel: 050000000a000000140000002800000050000000
+  requiredZoneLevel: 0

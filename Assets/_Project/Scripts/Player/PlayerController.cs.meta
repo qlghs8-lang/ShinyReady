@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 77b179769689bf9479c40b6364a62588
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _joystickContainer: {fileID: 4755776869031492170, guid: f5a5d78a697d949439faed74928ac946, type: 3}
+  - _joystickBackground: {fileID: 5043314153621276442, guid: f90ee96a8817b8f418e69c641c1850ab, type: 3}
+  - _joystickHandle: {fileID: 5408868105148714975, guid: 4961daf0e7f331c46a302ac569227a8e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
